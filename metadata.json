@@ -1,0 +1,6 @@
+{
+  "name": "Maid Attendance",
+  "description": "Offline household maid attendance, leaves, and salary calculation app with calendar tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
